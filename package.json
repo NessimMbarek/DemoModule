@@ -1,0 +1,22 @@
+{
+  "name": "demomodule",
+  "version": "1.0.0",
+  "description": "creation and pubslish of my first module on npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/NessimMbarek/DemoModule.git"
+  },
+  "keywords": [
+    "Tay"
+  ],
+  "author": "Nessim Mbarek - TBM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NessimMbarek/DemoModule/issues"
+  },
+  "homepage": "https://github.com/NessimMbarek/DemoModule#readme"
+}
